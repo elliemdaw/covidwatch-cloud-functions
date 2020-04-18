@@ -79,7 +79,7 @@ paths:
                   type: timestamp
       responses:
         '200':
-          description: Successfully created a new artist
+          description: Successfully created a new report
         '400':
           description: Invalid request
           content:
